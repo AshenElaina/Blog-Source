@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/ashenelaina
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ashenelaina.github.io
+  * I am ashenelaina (https://keybase.io/ashenelaina) on keybase.
+  * I have a public key with fingerprint 0A6D A7A3 5B5F 786C 64AD  91EB AFB1 FE9C 8EEE 2C67
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01165587492bbec024cff86fa37996c26bceb80da3cb6250457c5c52f010058ef7060a",
+      "fingerprint": "0a6da7a35b5f786c64ad91ebafb1fe9c8eee2c67",
+      "host": "keybase.io",
+      "key_id": "afb1fe9c8eee2c67",
+      "kid": "01165587492bbec024cff86fa37996c26bceb80da3cb6250457c5c52f010058ef7060a",
+      "uid": "d910a8daa9588c8bf2eb7cdb41f81519",
+      "username": "ashenelaina"
+    },
+    "service": {
+      "hostname": "ashenelaina.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1603569653,
+  "expire_in": 157680000,
+  "prev": "93891f006f814d27fb23afed196d3c30fa0c8a25b513fc502781cbe96fb27490",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUr9rFEEY3ZhT4oEgCtcd4oCCeISZ3Z3Z2dMmlX+ATcBinR/f3A257J67e+eF
+cCIIEhuJkEawkYAhRRARLUULG61srLQTUQL+BaLOnKbS0mmG+ea9N+99820emw8W
+Wo+f/Hhw91unN/f2qwyyrY3GOpKFXkPddbQCsw0GGqo6W7EadREmhFHKkzgNpQSF
+w1gZw5kRUZKmTIVMKpAcaxEpyUKKY5ooqmhoMMGYcjAJZligDjI270E5LG1ee1nB
+tEhERCU1CWeKxUKnBKQwkhhIFQeAULHEEftF5RnOnBQVLNrC1dwhm9n7B/4/+x7N
+5Jw5LLgWIqWcKy5NCDJRWsbEcEJJ6oEVlLlYBe+q6kMOA2FzgaYd5C7GVoHvrQ/z
+N2ixZ+v+SP7ONiyLulDFwEH6dT2sul6iXht6znWQ2R+1TNpcu546xhjKyhY56hKH
+VLX18oThiLKU0aiDYDK0JWTWI2jCOHbLv6Nh7DTTiKfEYMxckliHiZFhJAxokjId
+qQgbgRUXofspEhlFcZhwoiSkzAFdezHyAa/lBerGzqfoOcnK9nJRj0pA0+bGqBG0
+FoJ263SjubqzfSWbDPTevf2DMTx8yM9g0Dx6/KDS/BT8vLwc7F148/B2eOLG5u6H
+l2fbN/mLU+z1ncn8+Z37Hy/dmgsewf67YhmWls693/1+lXW2Pn+5mL3abtOnZ55N
+n5888gs=
+=uUdl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ashenelaina
+
+==================================================================
+
