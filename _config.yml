@@ -148,12 +148,6 @@ feed:
   autodiscovery: true
   template:
 
-math:
-  engine: 'mathjax'
-  mathjax:
-    enable: true
-    cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML
-
 # For syntax highlighting
 prism_plugin:
   mode: 'preprocess'
@@ -164,5 +158,5 @@ prism_plugin:
 ## Docs: https://hexo.io/docs/one-command-deployment#Git
 deploy:
   type: git
-  repo: git@github.com:AshenElaina/Blog-Source.git
+  repo: git@github.com:AshenElaina/ashenelaina.github.io.git
   branch: main
