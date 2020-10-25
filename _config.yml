@@ -164,8 +164,5 @@ prism_plugin:
 ## Docs: https://hexo.io/docs/one-command-deployment#Git
 deploy:
   type: git
-  repo: 
-    GitHub:
-      url: https://github.com/AshenElaina/ashenelaina.github.io.git
-      branch: main
-      token: "$GITHUB_TOKEN"
+  repo: git@github.com:AshenElaina/Blog-Source.git
+  branch: main

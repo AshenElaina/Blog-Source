@@ -1,0 +1,17 @@
+name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+      - uses: yrpang/github-actions-hexo@v1.3
+        with:
+          deploykey: ${{ secrets.DEPLOY_KEY }}
+          if_keep_commit_history: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Ping
+        uses: enflo/curl-action@v1.2
+        with:
+          curl: https://ashenelaina.superfeedr.com -d hub.mode="publish" -d hub.url="https://ashenelaina.github.io/rss2.xml"
