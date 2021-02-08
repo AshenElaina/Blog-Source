@@ -108,8 +108,8 @@ theme: typography
 
 highlight:
   hljs: true
-  enable: false
-  line_number: false
+  enable: true
+  line_number: true
   auto_detect: true
   tab_replace: ''
 
@@ -153,9 +153,6 @@ prism_plugin:
   mode: 'preprocess'
   theme: 'default'
   line_number: true 
-
-math:
-  engine: 'katex'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment#Git
